@@ -1,0 +1,183 @@
+body{
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f90429+0,db724e+44,dd4d74+100 */
+background: #f90429; /* Old browsers */
+background: -moz-linear-gradient(top,  #f90429 0%, #db724e 44%, #dd4d74 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #f90429 0%,#db724e 44%,#dd4d74 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #f90429 0%,#db724e 44%,#dd4d74 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f90429', endColorstr='#dd4d74',GradientType=0 ); /* IE6-9 */
+
+}
+
+header {
+	max-width: 1000px;
+	min-height: 130px;
+	margin: 0 auto;
+	border-radius: 20px 20px 0 0;
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f3c5bd+0,e86c57+50,ea2803+51,ff6600+75,c72200+100;Red+Gloss */
+background: #f3c5bd; /* Old browsers */
+background: -moz-linear-gradient(top,  #f3c5bd 0%, #e86c57 50%, #ea2803 51%, #ff6600 75%, #c72200 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #f3c5bd 0%,#e86c57 50%,#ea2803 51%,#ff6600 75%,#c72200 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #f3c5bd 0%,#e86c57 50%,#ea2803 51%,#ff6600 75%,#c72200 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3c5bd', endColorstr='#c72200',GradientType=0 ); /* IE6-9 */
+
+
+}
+
+#logo {
+	width: 300px;
+	height: 300px;
+	float: left;
+	margin-top: 20px;
+	animation: moverIzquierda 3s ease-in;
+
+	
+}
+#logo img:hover {
+	filter:hue-rotate(50deg);
+}
+
+#menu-h {
+	max-width: 1000px;
+	min-height: 50px;
+	background: #000;
+	margin: 0 auto; 
+	
+
+}
+
+#banner {
+	max-width: 1000px;
+	min-height: 200px;
+	background: #444;
+	margin: 0 auto;
+	margin-top: -10px;
+
+
+}
+
+#banner img{
+	margin: -150px 10px 0 0;
+	animation: moverDerecha 2s ease-in;
+
+}
+
+#contenedor {
+	max-width: 1000px;
+	min-height: 700px;
+	background: #fff;
+	margin: 0 auto;
+
+}
+
+#menu-v {
+	width: 300px;
+	min-height: 700px;
+	background: #ccc;
+	float: left;
+}
+
+#menu-v ul{
+	list-style: none;
+	padding: 10px;
+}
+
+#menu-v a {
+	display: block;
+	color: #fff;
+	padding: 10px;
+	text-decoration: none;
+	border:1px solid #ccc;
+	margin-bottom: 8px;
+	border-radius: 5px;
+	font-family: kalam;
+	font-size: 18px;
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f90429+0,db724e+44,dd4d74+100 */
+background: #f90429; /* Old browsers */
+background: -moz-linear-gradient(top,  #f90429 0%, #db724e 44%, #dd4d74 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #f90429 0%,#db724e 44%,#dd4d74 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #f90429 0%,#db724e 44%,#dd4d74 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f90429', endColorstr='#dd4d74',GradientType=0 ); /* IE6-9 */
+
+
+}
+
+#menu-v a:hover {
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#efc5ca+0,d24b5a+50,ba2737+51,f18e99+100;Red+Gloss+%233 */
+background: #efc5ca; /* Old browsers */
+background: -moz-linear-gradient(top,  #efc5ca 0%, #d24b5a 50%, #ba2737 51%, #f18e99 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #efc5ca 0%,#d24b5a 50%,#ba2737 51%,#f18e99 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #efc5ca 0%,#d24b5a 50%,#ba2737 51%,#f18e99 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#efc5ca', endColorstr='#f18e99',GradientType=0 ); /* IE6-9 */
+
+
+}
+
+#contenido {
+	width: 700px;
+	min-height: 700px;
+	background: #fff;
+	float: right;
+	padding: 15px;
+	box-sizing: border-box;
+}
+
+
+#contenido h2{
+	font-family: kalam;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+#contenido p{
+
+	margin-bottom: 10px;
+	font-family: kalam;
+	font-size: 28px;
+	text-align: justify;
+
+}
+
+.img-izq{
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	width: 230px;
+	border: 3px solid red;
+}
+
+footer {
+	max-width: 1000px;
+	background: #000;
+	margin: 0 auto;
+	border-radius: 0 0 20px 20px;
+	color: #fff;
+	text-align: center;
+	padding: 30px;
+	box-sizing: border-box;
+	font-family: kalam;
+	font-size: 20px;
+}
+
+
+@keyframes moverIzquierda{
+	0%{
+		opacity: 0;
+		transform: translateX(-100px);
+	}
+	100%{
+		opacity: 1;
+		transform: translate(0);
+	}
+}
+
+@keyframes moverDerecha{
+    0%{
+        opacity: 0;
+        transform: translateX(100px);
+    }
+
+    100%{
+        opacity: 1;
+        transform: translate(0);
+    }
+

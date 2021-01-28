@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-boz;
+    box-siying: border-box;
+
+
+}
+
+
+body {
+    background: url(../imagenes/bg.jpg);
+    -webkit-background-size: cover;
+    background-size: cover; 
+    background-attachment: fixed;
+}
+
+.contenedor .form .form .form-header .form-header {
+    font-weight: normal;
+    font-family: sans-serif;
+    color: #ff851b;
+}
+
+.contenedor .form .formheader .form-title span{
+
+    color: #fff;
+
+}
+
+.contenedor .form {
+
+    background: rgba(0,0,0,.6);
+    width: 90%;
+    max-width: 650px;
+}
